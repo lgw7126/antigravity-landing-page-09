@@ -14,18 +14,18 @@ Svelte 5와 Three.js를 결합한 선언형 3D 웹 개발 라이브러리 **Veld
 
 ## ✨ 주요 특징
 
-- "사용 전치형 공웑 먰경" - Canvas 기반 스크롤 연동 영상 재생
-- "SEO 최적화" - Open Graph, Twitter Card 橔타필 완비
-- "Google Fonts" - Inter + Outfit 적학을 기잘피
-- "찰화형 데스크톱사용" - 모바일/데스크톱이 최적화
+- **스크롤 비디오 배경** — Canvas 기반 스크롤 연동 영상 재생
+- **SEO 최적화** — Open Graph, Twitter Card 메타태그 완비
+- **Google Fonts** — Inter + Outfit 조합의 모던 타이포그래피
+- **반응형 레이아웃** — 모바일/데스크톱 최적화
+
 
 ---
 
 ## 🛠️ 기술 스택
 
-- **HTML / CSS / JavaScript** (메장경 뙈핑) 에이전시
-- **Canvas API** - 스크롤 비디오 렌더가 레이어
-
+- **순수 HTML / CSS / JavaScript** (빌드 도구 없음)
+- **Canvas API** — 스크롤 비디오 렌더링
 ---
 
 ## 🚀 실행 방법
